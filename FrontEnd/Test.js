@@ -1,2 +1,2 @@
 console.log("Hello World");
-console.log("sawaddee kub");
+console.log("dasdwaad");
